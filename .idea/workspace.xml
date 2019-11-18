@@ -136,9 +136,61 @@
       <change afterPath="$PROJECT_DIR$/../H+sport/status_api/database.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../H+sport/status_api/get.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../H+sport/status_api/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebase/hosting.ZGlzdA.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/game-site.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/westcasino-logo-143x60-01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/precache-manifest.5472132177b801ab998bf31ace76ca76.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/2.e315d21c.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/2.e315d21c.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/main.d9bcbcbe.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/css/main.d9bcbcbe.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/2.66f13b70.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/2.66f13b70.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/main.6abf7b97.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/main.6abf7b97.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/runtime-main.75a40a9d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/static/js/runtime-main.75a40a9d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game-site - westcasino.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/public/img/westcasino-logo-143x60-01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/auth/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/dashboard/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Notifications.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/layout/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/SingedInLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/ScoreList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/ScoreSummary.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/Board.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/DebugState.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/Enemy.js" afterDir="false" />
@@ -149,6 +201,16 @@
       <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/helpers/constants.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/helpers/utils.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/fbConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/core/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/authActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/scoreActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/scoreReducer.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../game-site/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../game-site/dist/asset-manifest.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../game-site/dist/favicon.ico" afterDir="false" />
@@ -345,8 +407,9 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="3" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="js" value="57" />
+          <entry key="js" value="58" />
           <entry key="json" value="3" />
           <entry key="jsx" value="3" />
           <entry key="log" value="1" />
@@ -360,8 +423,8 @@
           <entry key="HTML" value="2" />
           <entry key="JSON" value="3" />
           <entry key="JSX Harmony" value="3" />
-          <entry key="JavaScript" value="57" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JavaScript" value="58" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="SVG" value="3" />
           <entry key="TypeScript" value="2" />
         </counts>
@@ -384,11 +447,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="720">
               <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/config/fbConfig.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="9" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -405,18 +486,6 @@
               <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/layout/Footer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -459,18 +528,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/layout/SingedInLinks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="86" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
@@ -504,7 +561,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -650,17 +707,17 @@
       <workItem from="1573900744096" duration="29218000" />
       <workItem from="1573973802383" duration="8128000" />
       <workItem from="1573983684505" duration="21061000" />
-      <workItem from="1574103879422" duration="3382000" />
+      <workItem from="1574103879422" duration="3661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66588000" />
+    <option name="totallyTimeSpent" value="66867000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-320" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069546" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16069546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -674,7 +731,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4592511" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4592511" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -709,13 +766,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/react-router/esm/react-router.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="615" column="4" selection-start-line="615" selection-start-column="4" selection-end-line="615" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/redux-thunk/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -762,13 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/fbConfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1032,6 +1075,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/fbConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="11" selection-start-line="11" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
