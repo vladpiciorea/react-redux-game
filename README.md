@@ -1,6 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+In src/index.js add your firebase credential
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: '',
+    appId: '',
+    measurementId: '',
 
 In the project directory, you can run:
 
