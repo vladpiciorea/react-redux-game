@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b82e188d-f73c-4dbc-b5dc-3e448899e6d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../H+sport/business.wpdiy.net/wp/wp-content/uploads/2015/04/Ailene_McDott-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/business.wpdiy.net/wp/wp-content/uploads/2015/04/Arnold_Rickshaw-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/business.wpdiy.net/wp/wp-content/uploads/2015/04/Geena-Draper-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/business.wpdiy.net/wp/wp-content/uploads/2015/04/kristiann_ng-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/business.wpdiy.net/wp/wp-content/uploads/2015/04/tony_salvador-300x300.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/business.wpdiy.net/wp/wp-content/uploads/2015/05/lmlogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/hotel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/files/landon_information_sheet_London.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/attractions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/dining_lattes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/dining_rooftop.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/dining_smoothiebar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/events_conference.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/events_wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/intro_attractions.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/intro_dining.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/intro_pool.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/intro_room.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/intro_wedding.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/rooms_cambridge.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/rooms_manchester.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/rooms_oxford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/rooms_piccadilly.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/rooms_victoria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/rooms_westminster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/hotel/splash_hotelphoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/icons/attractions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/icons/dining.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/icons/events.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/icons/info.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/icons/rooms.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/misc/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/misc/greenplanet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/socialmedia/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/socialmedia/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/images/socialmedia/youtube.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/landonhotel.com/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/about-leaf-mortar/feed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/about-leaf-mortar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/comments/feed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/feed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/index2df4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min7bcd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap-theme8c1c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/assets/libs/bootstrap/css/bootstrap8c1c.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/assets/libs/bootstrap/js/bootstrap8c1c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/css/calendar8727.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/css/client8727.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/css/skins/traditional8727.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/css/timeline8727.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/js/client4963.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/js/datepick/jquery.datepick4963.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/booking/js/wpbc_vars4963.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/contact-form-7/includes/css/styles5859.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/contact-form-7/includes/js/scripts5859.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/wpdiy/icons/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/wpdiy/icons/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/wpdiy/icons/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/wpdiy/icons/style7bcd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/wpdiy/js/functions68b3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/plugins/wpdiy/wpdiy-styles7bcd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-Bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-Bold-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/DroidSans-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Bold-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/OpenSans-Regular-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Bold-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Light-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Light-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Light-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Light-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-LightItalic-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-LightItalic-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-LightItalic-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-LightItalic-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-LightItalic-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Medium-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Medium-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Medium-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Medium-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Regular-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Regular-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Regular-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Regular-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/Roboto-Regular-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/RobotoCondensed-Bold-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/RobotoCondensed-Bold-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/RobotoCondensed-Bold-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/RobotoCondensed-Bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/fonts/RobotoCondensed-Bold-webfontd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/js/main5152.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-content/themes/kage-green/style7bcd.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-includes/js/comment-reply.min7bcd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-includes/js/jquery/jquery-migrate.min330a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-includes/js/jquery/jqueryb8ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-includes/js/wp-embed.min7bcd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-includes/wlwmanifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-json/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-json/oembed/1.0/embed8eb3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/wp-json/oembed/1.0/embed9d52" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/xmlrpc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.com/xmlrpc0db0.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/leafandmortar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/mockup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/status_api/config_setup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/status_api/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/status_api/get.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../H+sport/status_api/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/westcasino-logo-143x60-01.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/dashboard/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/layout/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/DebugState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/Enemy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/GameInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/components/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/containers/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/helpers/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/helpers/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/projects/dodgy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/img/mario-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/precache-manifest.158055453321158541a7ef2281b9d047.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/css/main.53aa6dca.chunk.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/css/main.53aa6dca.chunk.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/js/2.b20e93ab.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/js/2.b20e93ab.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/js/main.5d848078.chunk.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/js/main.5d848078.chunk.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/js/runtime-main.75a40a9d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/dist/static/js/runtime-main.75a40a9d.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/public/img/mario-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/auth/SignIn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/auth/SignUp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/dashboard/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/dashboard/Notifications.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/layout/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/layout/SingedInLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/layout/SingedOutLinks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/projects/CreateProject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/projects/ProjectDetails.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/projects/ProjectList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/components/projects/ProjectSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/config/fbConfig.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/core/PrivateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/store/actions/authActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/store/actions/projectActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/store/reducers/authReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/store/reducers/projectReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../game-site/src/store/reducers/rootReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-react-express-app/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-react-express-app/.gitignor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-react-express-app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-react-express-app/src/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-react-express-app/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/api/apiUtils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/api/authorApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/api/courseApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/PageNotFound.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/about/AboutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/common/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/courses/CourseList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/courses/CoursesPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/components/home/HomePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/actions/actionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/actions/authorActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/actions/courseActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/configureStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/reducers/authorReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/reducers/courseReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/src/redux/reducers/initialState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/tools/apiServer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/tools/createMockDb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/tools/mockData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-redux-react-router-es6/webpack.config.dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/actions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/actions/index.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/App.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/BookItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/BookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Footer.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Header.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/Link.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/MainSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/MainSection.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/TodoItem.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/TodoList.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/TodoTextInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/TodoTextInput.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/components/button.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/constants/ActionTypes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/constants/TodoFilters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/constants/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/containers/FilterLink.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/containers/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/containers/MainSection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/containers/VisibleBookList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/context/BookContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/reducers/books.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/reducers/todos.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/reducers/visibilityFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../redux/src/selectors/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-blog" beforeDir="false" afterPath="$PROJECT_DIR$/../my-blog" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="827391936">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="3" />
+          <entry key="js" value="93" />
+          <entry key="json" value="3" />
+          <entry key="log" value="1" />
+          <entry key="png" value="1" />
+          <entry key="ts" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="93" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="TypeScript" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="ESLintLanguageService" value="1" />
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="js" value="5136" />
+          <entry key="json" value="1" />
+          <entry key="log" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="5136" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="394739966">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="9" />
+          <entry key="html" value="9" />
+          <entry key="js" value="1310" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="9" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1310" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="2" />
+          <entry key="js" value="57" />
+          <entry key="json" value="3" />
+          <entry key="jsx" value="3" />
+          <entry key="log" value="1" />
+          <entry key="svg" value="3" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="3" />
+          <entry key="JSX Harmony" value="3" />
+          <entry key="JavaScript" value="57" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SVG" value="3" />
+          <entry key="TypeScript" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/store/actions/scoreActions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/img/westcasino-logo-143x60-01.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/dashboard/Modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/Footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/auth/SignUp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/auth/SignIn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/Navbar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/layout/SingedInLinks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="86" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>config</find>
+      <find>Game</find>
+      <find>ProjectList</find>
+      <find>playerSize</find>
+      <find>Enemy</find>
+      <find>player</find>
+      <find>ProjectSummary</find>
+      <find>SingedOutLinks</find>
+      <find>createProject</find>
+      <find>project</find>
+      <find>ScoreSummary</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/dashbpard/Motifications.js" />
+        <option value="$PROJECT_DIR$/src/components/dashbpard/Notifications.js" />
+        <option value="$PROJECT_DIR$/src/components/dashbpard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/config/fbConfig.js" />
+        <option value="$PROJECT_DIR$/src/core/PrivateRoute.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/authReducer.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/rootReducer.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/firebase-debug.log" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/index.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/components/Square.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/components/DebugState.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Notifications.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/components/GameInfo.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/components/Enemy.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/components/Player.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/components/Board.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/CreateProject.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/dodgy/containers/Game.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/SingedInLinks.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ProjectDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ProjectSummary.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ProjectList.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/SingedOutLinks.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/projectActions.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/projectReducer.js" />
+        <option value="$PROJECT_DIR$/src/store/reducers/scoreReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ScoreDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ScoreSummary.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Dashboard.js" />
+        <option value="$PROJECT_DIR$/src/components/projects/ScoreList.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/authActions.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/functions/index.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/Footer.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/src/components/auth/SignUp.js" />
+        <option value="$PROJECT_DIR$/src/components/layout/Navbar.js" />
+        <option value="$PROJECT_DIR$/src/components/dashboard/Modal.js" />
+        <option value="$PROJECT_DIR$/src/components/auth/SignIn.js" />
+        <option value="$PROJECT_DIR$/src/store/actions/scoreActions.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/functions/node_modules" />
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/functions/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-320" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="game-site - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="game-site - Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../game-site" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.path.for.package.standard" value="C:/Program Files/nodejs/node" />
+    <property name="node.js.selected.package.eslint" value="E:\reactApp\game-site\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="E:\reactApp\game-site\node_modules\eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\reactApp\game-site - Copy\dist" />
+      <recent name="E:\reactApp\game-site - Copy\src\components\projects\dodgy" />
+      <recent name="E:\reactApp\game-site - Copy\public\img" />
+      <recent name="E:\reactApp\game-site\dist" />
+      <recent name="E:\reactApp\game-site\src\store\actions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b82e188d-f73c-4dbc-b5dc-3e448899e6d7" name="Default Changelist" comment="" />
+      <created>1573895883213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573895883213</updated>
+      <workItem from="1573895884940" duration="4799000" />
+      <workItem from="1573900744096" duration="29218000" />
+      <workItem from="1573973802383" duration="8128000" />
+      <workItem from="1573983684505" duration="21061000" />
+      <workItem from="1574103879422" duration="3382000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66588000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-320" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32819384" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4592511" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22693452" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32885906" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1828859" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/react-router/esm/react-router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="615" column="4" selection-start-line="615" selection-start-column="4" selection-end-line="615" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-thunk/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux/es/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux-firebase/es/firestoreConnect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="130" selection-start-line="130" selection-end-line="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux/es/connect/connect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="97" column="15" selection-start-line="97" selection-start-column="15" selection-end-line="97" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/core/PrivateRoute.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-redux-firebase/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="778" column="16" selection-start-line="778" selection-start-column="16" selection-end-line="778" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/redux-firestore/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="124" column="16" selection-start-line="124" selection-start-column="16" selection-end-line="124" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/config/fbConfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/firebase/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6968" column="27" selection-start-line="6968" selection-start-column="27" selection-end-line="6968" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/westcasino-logo-143x60-01.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/containers/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/helpers/constants.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/Square.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/helpers/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/DebugState.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/Enemy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/GameInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/Player.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/components/Board.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/dodgy/containers/Game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="330" selection-start-line="330" selection-end-line="330" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/CreateProject.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/layout/SingedOutLinks.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/ScoreSummary.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projects/ScoreDetails.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/projects/ScoreList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/authActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="86" selection-start-line="9" selection-start-column="71" selection-end-line="9" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/authReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/scoreReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/reducers/rootReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firebase-debug.log" />
+    <entry file="file://$PROJECT_DIR$/functions/node_modules/firebase-functions/lib/providers/firestore.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="96" selection-start-line="12" selection-start-column="96" selection-end-line="12" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/SingedInLinks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="73" selection-start-line="9" selection-start-column="73" selection-end-line="9" selection-end-column="86" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/SignUp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="58" column="54" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/layout/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="68" selection-start-line="13" selection-start-column="68" selection-end-line="13" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/dashboard/Modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/auth/SignIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/actions/scoreActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/img/westcasino-logo-143x60-01.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
