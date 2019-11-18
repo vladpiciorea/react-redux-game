@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+[See Demo](https://game-site-d46c1.firebaseapp.com/)
+
 In src/index.js add your firebase credential
     apiKey: '',
     authDomain: '',
